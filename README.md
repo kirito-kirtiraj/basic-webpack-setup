@@ -1,15 +1,10 @@
-# XT Shopping Cart Assignment
-
-This is the base folder for the shopping cart exercise. You will have all the static assets and mock server responses available in this repo.
-
-## Getting Started
-
-Clone this repo and run following command for starting the mock server:
+# Basic webpack setup with SASS, Bable and handlebars
+Clone this repo and run following command
 
 ```
 npm install
-npm run start
+npm run dev
 # or
 yarn install
-yarn start
+yarn dev
 ```
